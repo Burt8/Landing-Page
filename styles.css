@@ -17,6 +17,10 @@ body {
     display:flex
 }
 
-.logo, ul {
+.logo{
+    display:flex
+}
+
+ul {
     display:flex
 }
