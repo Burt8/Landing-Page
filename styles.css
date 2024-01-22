@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+.content {
+    display:flex;
+    flex-direction:column
+}
+
+.top {
+    height:500px;
+    background-color: #1F2937;
+    display:flex;
+}
+
+.header {
+    display:flex
+}
+
+.logo, ul {
+    display:flex
+}
