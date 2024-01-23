@@ -25,5 +25,8 @@ body {
 }
 
 ul {
-    display:flex
+    display:flex;
+    font-size: 18px;
+    color:#E5E7Eb;
+    list-style-type: none;
 }
