@@ -18,7 +18,8 @@ body {
 .topcontainer {
     display:flex;
     justify-content: center;
-    width:800px
+    width:800px;
+    flex-direction: column;
 }
 
 .header {
@@ -37,4 +38,15 @@ body {
     font-size: 18px;
     color:#E5E7Eb;
     list-style-type: none;
+}
+
+.topmaintxt {
+    font-size:48px;
+    font-weight: bolder;
+    color:#f9fAf8
+}
+
+.topsubtxt {
+    font-size:18px;
+    color:#E5E7Eb
 }
