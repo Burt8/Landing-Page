@@ -25,7 +25,7 @@ body {
 .header {
     display:flex;
     max-height:100px;
-    margin:12px;
+    margin:12px 0px 80px 0px;
 }
 
 .logo{
@@ -49,7 +49,7 @@ body {
 
 .topcontleft {
     max-height:250px;
-    width:400px;
+    width:500px;
     display:flex;
     flex-direction:column;
     flex-shrink:1
@@ -64,4 +64,18 @@ body {
 .topsubtxt {
     font-size:18px;
     color:#E5E7Eb
+}
+
+.topcontright {
+    display:flex;
+    align-items: center;
+    width:500px;
+    max-height:250px;
+    justify-content: center;
+}
+
+.topimage {
+    font-size:18px;
+    color:#E5E7Eb;
+    background-color:#a0a1a5;
 }
