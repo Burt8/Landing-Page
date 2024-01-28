@@ -24,14 +24,18 @@ body {
 
 .header {
     display:flex;
-    max-height:100px;
-    margin:12px 0px 80px 0px;
+    max-height:75px;
+    flex-grow:1;
+    align-self:stretch;
+    align-items:center;
+    justify-content: center;
+    margin-bottom:80px;
 }
 
 .logo{
-    display:flex;
     font-size: 24px;
     color: #f9fAf8;
+    margin-right:auto;
 }
 
 .headerlinks {
@@ -44,7 +48,8 @@ body {
 .topcontent {
     display:flex;
     max-height:250px;
-    align-self:center
+    align-self:center;
+    flex:1;
 }
 
 .topcontleft {
