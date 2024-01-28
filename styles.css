@@ -17,14 +17,15 @@ body {
 
 .topcontainer {
     display:flex;
-    justify-content: center;
-    width:800px;
+    align-items:center;
+    width:1000px;
     flex-direction: column;
 }
 
 .header {
     display:flex;
     max-height:100px;
+    margin:12px;
 }
 
 .logo{
@@ -38,6 +39,20 @@ body {
     font-size: 18px;
     color:#E5E7Eb;
     list-style-type: none;
+}
+
+.topcontent {
+    display:flex;
+    max-height:250px;
+    align-self:center
+}
+
+.topcontleft {
+    max-height:250px;
+    width:400px;
+    display:flex;
+    flex-direction:column;
+    flex-shrink:1
 }
 
 .topmaintxt {
