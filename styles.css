@@ -13,6 +13,7 @@ body {
     background-color: #1F2937;
     display:flex;
     justify-content: center;
+    flex-shrink:1;
 }
 
 .topcontainer {
@@ -52,34 +53,33 @@ body {
 .topcontent {
     display:flex;
     max-height:250px;
-    align-self:center;
     flex:1;
 }
 
 .topcontleft {
-    max-height:250px;
     width:500px;
     display:flex;
     flex-direction:column;
-    flex-shrink:1
+    align-items: flex-start;
+    text-align: start;
 }
 
 .topmaintxt {
     font-size:48px;
     font-weight: bolder;
-    color:#f9fAf8
+    color:#f9fAf8;
 }
 
 .topsubtxt {
     font-size:18px;
-    color:#E5E7Eb
+    color:#E5E7Eb;
+    margin:8px;
 }
 
 .topcontright {
     display:flex;
     align-items: center;
     width:500px;
-    max-height:250px;
     justify-content: center;
 }
 
