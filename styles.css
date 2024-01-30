@@ -106,13 +106,13 @@ button {
     font-weight:bolder;
     color:#1F2937;
     justify-content: center;
-    margin:24px;
+    margin:24px 24px 48px 24px;
 }
 
 .infoboxes {
     display:flex;
     justify-content: center;
-    gap:20px;
+    gap:48px;
 }
 
 .infocards {
