@@ -153,5 +153,6 @@ button {
 .quotecredit {
     text-align: end;
     margin-right:36px;
-    font-weight:bold
+    font-weight:bold;
+    font-size:18px;
 }
