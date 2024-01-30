@@ -127,3 +127,8 @@ button {
     width:150px;
     border: solid 2px #3882F6;
 }
+
+.quotebox {
+    height:500px;
+    background-color:#E5E7Eb;
+}
