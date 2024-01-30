@@ -165,8 +165,8 @@ button {
 }
 
 .signupbox {
-    border: solid 2px black;
     background-color:#3882F6;
     color:#f9fAf8;
-    padding:24px 48px;
+    padding:40px 280px;
+    display:flex;
 }
