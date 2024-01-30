@@ -110,8 +110,15 @@ button {
 
 .infoboxes {
     display:flex;
+    justify-content: center;
 }
 
 .infocards {
-    display:flex;
+    max-width: 200px;
+}
+
+.img {
+    height:100px;
+    width:100px;
+    border: solid 2px #3882F6;
 }
