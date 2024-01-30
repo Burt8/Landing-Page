@@ -169,4 +169,16 @@ button {
     color:#f9fAf8;
     padding:40px 280px;
     display:flex;
+    
+}
+
+.signupmaintxt {
+    text-align:start;
+    margin-right:28px;
+    font-size:24px;
+}
+
+.signupsubtxt {
+    font-size:18px;
+    color:#E5E7Eb;
 }
