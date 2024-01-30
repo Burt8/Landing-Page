@@ -163,3 +163,8 @@ button {
     align-items:center;
     justify-content:center;
 }
+
+.signupbox {
+    border: solid 2px black;
+    background-color:#3882F6;
+}
