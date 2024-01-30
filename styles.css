@@ -156,3 +156,10 @@ button {
     font-weight:bold;
     font-size:18px;
 }
+
+.signupsector {
+    height:400px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
