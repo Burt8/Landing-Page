@@ -139,7 +139,7 @@ button {
 .quotecontainer {
     display:flex;
     flex-direction:column;
-    max-width:800px;
+    max-width:750px;
 }
 
 .quote {
@@ -168,10 +168,12 @@ button {
     background-color:#3882F6;
     color:#f9fAf8;
     height:80px;
-    width:800px;
+    width:850px;
     display:flex;
     align-items: center;
-    gap:200px;
+    justify-content: space-around;
+    padding: 24px 50px;
+    gap:150px;
 }
 
 .signupmaintxt {
