@@ -167,18 +167,19 @@ button {
 .signupbox {
     background-color:#3882F6;
     color:#f9fAf8;
-    padding:40px 280px;
+    height:80px;
+    width:800px;
     display:flex;
-    
+    align-items: center;
+    gap:200px;
 }
 
 .signupmaintxt {
     text-align:start;
-    margin-right:28px;
     font-size:24px;
 }
 
 .signupsubtxt {
     font-size:18px;
-    color:#E5E7Eb;
+    color:#E5E7Eb
 }
