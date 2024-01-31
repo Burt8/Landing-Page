@@ -12,6 +12,14 @@ button {
     font-size:16px
 }
 
+.topsignup {
+    border:#1F2937;
+}
+
+.botsignup {
+    border:2px solid #E5E7Eb;
+}
+
 .content {
     display:flex;
     flex-direction:column;
