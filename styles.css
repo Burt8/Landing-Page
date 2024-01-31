@@ -180,6 +180,7 @@ button {
 .signupbox {
     background-color:#3882F6;
     color:#f9fAf8;
+    border-radius:15px ;
     height:80px;
     width:850px;
     display:flex;
@@ -192,10 +193,12 @@ button {
 .signupmaintxt {
     text-align:start;
     font-size:24px;
+    font-weight:bold;
 }
 
 .signupsubtxt {
     font-size:18px;
+    font-weight: normal;
     color:#E5E7Eb
 }
 
