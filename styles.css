@@ -4,7 +4,11 @@ body {
 }
 
 button {
-    color:#3882F6;
+    background-color:#3882F6;
+    color:#E5E7Eb;
+    border-radius:10px;
+    padding: 8px 24px;
+    font-weight:bold;
 }
 
 .content {
