@@ -185,3 +185,13 @@ button {
     font-size:18px;
     color:#E5E7Eb
 }
+
+.footer {
+    display:flex;
+    height:100px;
+    background-color:#1F2937;
+    font-size:18px;
+    color:#E5E7Eb;
+    align-items:center;
+    justify-content: center;
+}
